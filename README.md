@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 
 
-it is no include steps for github
+it is now include steps for githu
